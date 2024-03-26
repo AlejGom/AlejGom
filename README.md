@@ -1,5 +1,5 @@
 - System.out.println("👋Hola Mundo, soy Alejandro🧑🏽");
-- System.out.println("Bienvenid@ a mi GitHub 😄";
+- echo "Bienvenid@ a mi GitHub" . 😄;
 
 
 <!---
