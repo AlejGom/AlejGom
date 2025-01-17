@@ -1,5 +1,5 @@
 <h1>System.out.println("👋Hello world");</h1>
-<h3>Web developer</h3>
+<h3>Full-Stack Web developer</h3>
 
 <p>Working with:</p>
 <table>
@@ -10,6 +10,7 @@
     <li>java</li>
     <li>javascript</li>
     <li>angular</li>
+    <li>AWS</li>
 </table>
 <!---
 AlejGom/AlejGom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
